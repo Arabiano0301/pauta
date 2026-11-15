@@ -6,7 +6,7 @@
 **Rotina semanal, tarefas, notas, prazos, temporizador de foco, revisões espaçadas e progresso, tudo no mesmo lugar.**
 Roda no navegador: sem cadastro e sem servidor. Seus dados ficam no seu aparelho.
 
-[![Abrir o app](https://img.shields.io/badge/%E2%96%B6%20Abrir%20o%20app-Pauta-6d4de0?style=for-the-badge)](https://arabiano0301.github.io/pauta/)
+[![Abrir o app](https://img.shields.io/badge/%E2%96%B6%20Abrir%20o%20app-Pauta-6d4de0?style=for-the-badge)](https://Arabiano0301.github.io/pauta/)
 
 ![Licença MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-3ddc97)
 ![Tecnologia](https://img.shields.io/badge/tecnologia-HTML%20%2B%20CSS%20%2B%20JS-ff9f43)
