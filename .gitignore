@@ -1,0 +1,17 @@
+# sistema e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# segredos: nunca versionar
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.jks
+*.keystore
+# temporários
+*.tmp
+*.log
+node_modules/
